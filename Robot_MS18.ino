@@ -8,8 +8,8 @@ Adafruit_PWMServoDriver pwm = Adafruit_PWMServoDriver();
 #define SERVOMIN  150
 #define SERVOMAX  600
 
-const char* ssid = "FRITZ!Box 7590 WO";
-const char* password = "05698604142397323383";
+const char* ssid = "XXX";
+const char* password = "XXX";
 
 ESP8266WebServer server(80);
 
